@@ -1,0 +1,60 @@
+.container {
+    display: grid;
+    gap: 12px;
+  }
+  
+  .controls {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+  }
+  
+  .search {
+    padding: 10px 12px;
+    width: 100%;
+    max-width: 520px;
+    border: 1px solid #bbb;
+    border-radius: 12px;
+  }
+  
+  .list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 8px;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .thumb {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .meta {
+    flex: 1;
+  }
+  
+  .name {
+    font-weight: 600;
+  }
+  
+  .sub {
+    font-size: 12px;
+    opacity: 0.75;
+  }
+  
+  .link {
+    text-decoration: none;
+  }
+  

@@ -1,0 +1,17 @@
+[
+  {"id":"1","name":"Very Cherry","group":"Fruit","color":"#d32f2f","imageUrl":""},
+  {"id":"2","name":"Buttered Popcorn","group":"Novelty","color":"#f9e79f","imageUrl":""},
+  {"id":"3","name":"Sour Apple","group":"Sours","color":"#7cb342","imageUrl":""},
+  {"id":"4","name":"Blueberry","group":"Fruit","color":"#3f51b5","imageUrl":""},
+  {"id":"5","name":"Watermelon","group":"Fruit","color":"#66bb6a","imageUrl":""},
+  {"id":"6","name":"Lemon Lime","group":"Citrus","color":"#cddc39","imageUrl":""},
+  {"id":"7","name":"Coconut","group":"Dessert","color":"#fafafa","imageUrl":""},
+  {"id":"8","name":"Cotton Candy","group":"Dessert","color":"#f48fb1","imageUrl":""},
+  {"id":"9","name":"Bubble Gum","group":"Dessert","color":"#ef9a9a","imageUrl":""},
+  {"id":"10","name":"Licorice","group":"Classic","color":"#000000","imageUrl":""},
+  {"id":"11","name":"Green Apple","group":"Fruit","color":"#81c784","imageUrl":""},
+  {"id":"12","name":"Orange Sherbet","group":"Citrus","color":"#ffb74d","imageUrl":""},
+  {"id":"13","name":"Strawberry Cheesecake","group":"Dessert","color":"#ff8a80","imageUrl":""},
+  {"id":"14","name":"Juicy Pear","group":"Fruit","color":"#aed581","imageUrl":""},
+  {"id":"15","name":"Piña Colada","group":"Dessert","color":"#fff9c4","imageUrl":""}
+]

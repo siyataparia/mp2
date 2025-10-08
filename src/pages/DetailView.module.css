@@ -1,0 +1,46 @@
+.container {
+    display: grid;
+    gap: 12px;
+  }
+  
+  .title {
+    margin: 0;
+  }
+  
+  .top {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 16px;
+    align-items: start;
+  }
+  
+  .img {
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid #ddd;
+  }
+  
+  .info {
+    max-width: 720px;
+  }
+  
+  .desc {
+    white-space: pre-wrap;
+  }
+  
+  .actions {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-top: 12px;
+  }
+  
+  .back {
+    margin-left: auto;
+    text-decoration: none;
+  }
+  
+  @media (max-width: 900px) {
+    .top { grid-template-columns: 1fr; }
+  }
+  
